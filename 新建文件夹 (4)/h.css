@@ -1,0 +1,258 @@
+
+.container {
+    display: flex;
+    /* flex-direction: helps to control the layout in 4 directions
+        row, column, row-reverse, column-reverse
+    */
+    flex-direction: row;
+
+    /*flex-wrap: wrap;
+    /*sets whether flex items are forced onto one line or can wrap onto multiple lines.*/
+    /* justify-content: start, center, end, space-between, space-around, space-evenly */
+    justify-content: space-around;
+    height:300px;
+    background-color:rgb(0, 0, 0);
+    /* align-items: start, center, end */
+    align-items: center;
+}
+
+
+.container .box {
+    width: 250px;
+    height: 250px;
+    background-color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    
+}
+body {
+ margin:100px;      
+}
+.banner {
+    background-image: url('https://astrobackyard.com/wp-content/uploads/2021/01/sirius-star.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.banner .content {
+    text-align: center;
+    color: #000000;
+}
+.img-size{
+    width:75px;
+    height:75px;
+}
+body {
+    background-color: black;
+    color: white; /* This sets the text color to white for better visibility on a black background. */
+}
+.container-2 {
+   /* display: flex;
+    /* flex-direction: helps to control the layout in 4 directions
+        row, column, row-reverse, column-reverse
+    */
+    flex-direction: row;
+
+    /*flex-wrap: wrap;
+    /*sets whether flex items are forced onto one line or can wrap onto multiple lines.*/
+    /* justify-content: start, center, end, space-between, space-around, space-evenly 
+    justify-content: space-around;*/
+    height:300px;
+    width:100%;
+    background-color:rgb(0, 0, 0);
+    /* align-items: start, center, end */
+    align-items: center;
+}
+.container-2.box2 {
+    width: 250px;
+    height: 250px;
+    background-color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+.word{
+    color: white;
+}
+.img-2{
+    height:40%;
+    width:100%;
+    margin:0;
+}
+.bbox{
+    width:200px;
+    height:200px;
+    background-color:azure;
+    transform: rotate(20deg);
+ transition: all 5s ease-in-out;
+}
+.bbox:hover{
+    background-color:beige;
+   
+    transform: skew(200deg) rotateZ(20deg);
+    border-radius: 1%;
+}
+.head{
+    display: flex;
+    /* flex-direction: helps to control the layout in 4 directions
+        row, column, row-reverse, column-reverse
+    */
+    flex-direction: row;
+
+    /*flex-wrap: wrap;
+    /*sets whether flex items are forced onto one line or can wrap onto multiple lines.*/
+    /* justify-content: start, center, end, space-between, space-around, space-evenly */
+    justify-content: space-around;
+    height:300px;
+    background-color:rgb(0, 0, 0);
+    /* align-items: start, center, end */
+    align-items: center;
+}
+.headbox{
+    width: 250px;
+    height: 250px;
+    background-color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+    display:flex;
+    align-items:start;
+    justify-content: start;
+}
+.img2{
+    height:100%;
+    width:100%;
+    margin:0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
